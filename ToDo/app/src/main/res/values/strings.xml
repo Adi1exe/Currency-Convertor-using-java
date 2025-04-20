@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Todo App</string>
+
+    <!-- Task list screen -->
+    <string name="empty_task_list">No tasks yet. Tap + to add a new task.</string>
+    <string name="add_new_task">Add new task</string>
+
+    <!-- Add/Edit task screen -->
+    <string name="task_title">Title</string>
+    <string name="task_description">Description (optional)</string>
+    <string name="task_category">Category:</string>
+    <string name="save_task">Save Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="add_task">Add Task</string>
+
+    <!-- Dialog messages -->
+    <string name="task_deleted">Task deleted</string>
+    <string name="task_marked_done">Task marked as done</string>
+    <string name="undo">UNDO</string>
+    <string name="error_empty_title">Title cannot be empty</string>
+
+    <!-- Categories -->
+    <string-array name="task_categories">
+        <item>None</item>
+        <item>Work</item>
+        <item>Personal</item>
+        <item>College</item>
+    </string-array>
+</resources>
